@@ -1,3 +1,6 @@
+## Richard Daniel Sanchez
+> aka @0x07cb
+
 ### Welcome to my GitHub profile! 👋
 
 I'm passionate about programming and system administration, with a particular interest in artificial intelligence and system automations. Here's a glimpse of my core skills:
