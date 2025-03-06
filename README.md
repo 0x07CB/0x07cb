@@ -12,3 +12,6 @@ I'm passionate about programming and system administration, with a particular in
 - System administration on Linux and Raspberry Pi 🐧🔧
 
 I'm also open to collaboration on projects related to these areas. Feel free to explore my projects and reach out if you'd like to discuss potential collaborations!
+
+
+[Buy me a coffee](https://buymeacoffee.com/0x07cb)
